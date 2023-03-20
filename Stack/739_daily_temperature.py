@@ -36,3 +36,23 @@ class Solution:
                 days += 1
             res[i] = days
         return res
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
